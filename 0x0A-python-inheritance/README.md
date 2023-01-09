@@ -1,0 +1,1 @@
+In object-oriented programming, inheritance is the mechanism of basing an object or class upon another object or class, retaining similar implementation. This repo contains tasks about inheritance in python.
