@@ -2,4 +2,4 @@
 str1 = "Holberton"
 str2 = "School"
 str_combined = f"{str1} {str2}"
-print(f"Welcome to",str_combined + "!")
+print(f"Welcome to", str_combined + "!")
